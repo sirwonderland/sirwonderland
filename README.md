@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Você me acha também nas redes abaixo:
+  ### Você me acha nas redes sociais abaixo também: / You can find me on the social medias below too:
  
 <div> 
   <a href="https://instagram.com/bruwonderland" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
